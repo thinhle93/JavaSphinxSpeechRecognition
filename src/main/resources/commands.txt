@@ -1,0 +1,18 @@
+open fire fox
+close fire fox
+say hi
+go to sleep
+open c m d
+close c m d
+scroll up
+scroll down
+one
+two 
+three
+four
+five
+six
+seven
+eight
+nine
+ten
